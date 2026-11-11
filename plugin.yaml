@@ -1,0 +1,7 @@
+name: hermesstop
+version: 1.0.0-alpha
+description: Shouts one of 10 phrases (DAMNIT!, ARGH!, I PITY THE FOOL!, ...) in a comic, neon, minimal, rect, stamp, or pixel bubble whenever you hit the Stop button in the Hermes desktop composer. Options page at /hermesstop (titlebar stop-sign toggle).
+author: shovex
+license: MIT
+homepage: https://github.com/shovexxx/hermesstop
+tags: [desktop, fun, audio]

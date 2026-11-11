@@ -1,0 +1,12 @@
+STOP BUTTON, BUT LOUDER.
+
+Every time you hit Stop in the Hermes desktop app, it shouts back.
+
+10 phrases — DAMNIT! ARGH! I PITY THE FOOL!
+6 popup styles — comic, neon, minimal, rect, stamp, pixel
+2 custom words of your own
+
+Built for the Nous Research Hermes Agent Hackathon.
+github.com/shovexxx/hermesstop
+
+#HermesAgent #Hackathon #NousResearch
